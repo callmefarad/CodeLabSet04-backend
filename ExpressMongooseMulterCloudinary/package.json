@@ -1,0 +1,30 @@
+{
+  "name": "expressmongoosemultercloudinary",
+  "version": "1.0.0",
+  "description": "A simple market CRUD API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Mongoose",
+    "Express",
+    "Multer",
+    "Cloudinary",
+    "Path",
+    "Dotenv",
+    "Nodemon"
+  ],
+  "author": "Ubani U. Friday",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.27.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.14",
+    "path": "^0.12.7"
+  }
+}
