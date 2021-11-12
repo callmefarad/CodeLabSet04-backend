@@ -1,6 +1,5 @@
-PORT=2021
-
 DATABASE_URL = mongodb://localhost:27017/marketplace
+MONGODB_URI = 'mongodb+srv://callmefarad:B577f2Ai8bh6txuT@blog.eenxj.mongodb.net/bdcldb?retryWrites=true&w=majority'
 
 CLOUDINARY_CLOUD_NAME=callmefarad
 CLOUDINARY_API_KEY=993829221415253 
